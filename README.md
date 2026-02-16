@@ -37,6 +37,12 @@ All blogs are written in simple language with real-world examples, suitable for 
 
 ---
 
+### 🔧 Web Network-Devices Basics
+- **Network Devices**  
+  👉 https://pushkar-adhikari.hashnode.dev/understanding-network-devices
+
+---
+
 ## 🚀 About Me
 I’m a web developer who enjoys breaking down complex technical topics into simple, beginner-friendly explanations.
 
